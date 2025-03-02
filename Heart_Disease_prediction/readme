@@ -1,0 +1,22 @@
+# CardioCareML
+
+This is a complete Machine Learning project to predict heart disease risk using patient health data. The project covers end-to-end workflow including data exploration, preprocessing, model training & evaluation.
+
+## Workflow
+
+1. Data Loading & Cleaning
+2. Exploratory Data Analysis (EDA)
+3. Outlier Detection & Removal
+4. Preprocessing & Feature Scaling
+5. Model Building - Logistic Regression, SVM, Decision Tree
+6. Model Evaluation 
+7. Conclusion
+
+## Technologies Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+
+## Dataset
+Public heart disease dataset containing patient vitals and clinical data like age, cholesterol, blood pressure, and ECG results.
